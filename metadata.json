@@ -1,0 +1,7 @@
+{
+  "name": "Sarn Rak - Thai Wedding Planner",
+  "description": "A comprehensive Thai wedding management application to help couples plan their traditional Thai ceremonies from start to finish, featuring budget tracking, guest management, ritual checklists, and AI-powered planning advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
